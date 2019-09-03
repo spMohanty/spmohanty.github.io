@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Time Travelling Microscope</title>
+      <link>/project/time-travelling-microscope/</link>
+      <pubDate>Thu, 29 Aug 2019 03:51:16 +0530</pubDate>
+      
+      <guid>/project/time-travelling-microscope/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/wFcp8mcnFYU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Microscopes are a beautiful window to a whole new world that surrounds us. Given the accessibility and the ease of use of the modern day digital microscopes, many of us enthusiasts have spent days looking at this beautiful world and being fascinated by it every single moment.&lt;/p&gt;
+
+&lt;p&gt;This Art Installation imagines a past where all of our favourite artists were as fascinated by the Microscope and the Miscroscopic world as ourselves. We take hundreds of images of interesting objects pictured under a microscope, and then use &lt;a href=&#34;https://en.wikipedia.org/wiki/Neural_Style_Transfer&#34; target=&#34;_blank&#34;&gt;Neural Style Transfer&lt;/a&gt; to interpret them in the Artistic Styles of various artists like &lt;a href=&#34;https://en.wikipedia.org/wiki/Leonardo_da_Vinci&#34; target=&#34;_blank&#34;&gt;Leonardo Da Vinci&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Hokusai&#34; target=&#34;_blank&#34;&gt;Katsushika Hokusai&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Vincent_van_Gogh&#34; target=&#34;_blank&#34;&gt;Vincent Van Gogh&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Wassily_Kandinskys&#34; target=&#34;_blank&#34;&gt;Wassily Kandinsky&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Yayoi_Kusama&#34; target=&#34;_blank&#34;&gt;Yayoi Kusama&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Sonia_Delaunay&#34; target=&#34;_blank&#34;&gt;Sonia Delaunay&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Jackson_Pollock&#34; target=&#34;_blank&#34;&gt;Jackson Pollock&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Edvard_Munch&#34; target=&#34;_blank&#34;&gt;Edvard Munch&lt;/a&gt;, etc.&lt;/p&gt;
+
+&lt;p&gt;This piece is a collaboration with &lt;a href=&#34;https://federicilab.org/press/&#34; target=&#34;_blank&#34;&gt;Fernan Federici&lt;/a&gt;, who apart from being an amazing scientist, also shares my facscination with creating and appreciating beauty. And as &lt;a href=&#34;https://www.wired.com/2013/10/beautiful-microscopic-art-is-also-world-changing-science/?viewall=true&#34; target=&#34;_blank&#34;&gt;the Wired Magazine describes his work, he has a knack of &amp;ldquo;of finding art in unexpected places&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;history&#34;&gt;History&lt;/h1&gt;
+
+&lt;p&gt;The origin of this installation dates back to October 2018, when many of us were gathered in &lt;a href=&#34;https://en.wikipedia.org/wiki/Shenzhen&#34; target=&#34;_blank&#34;&gt;Shenzen, China&lt;/a&gt; for the &lt;a href=&#34;http://openhardware.science/gatherings/gosh-2018-2/&#34; target=&#34;_blank&#34;&gt;Gathering of Open Science Hardware (GOSH)&lt;/a&gt;, an annual event where many Open Hardware and Open Science enthusiasts huddle together every year to think about the future of Open Hardware for Science. This time, among the many interesting discussions, a few of us inebriated Art lovers started imagining how would have Van Gogh&amp;rsquo;s paintings looked like if he was as fascinated with the Microscopic world as us. Especially given his psychotic episodes, and how trippy many of the images in the Microscopic world were. It wasnt hard to connect the dots, as Van Gogh&amp;rsquo;s Starry Night was a text book example for &lt;a href=&#34;https://en.wikipedia.org/wiki/Neural_Style_Transfer&#34; target=&#34;_blank&#34;&gt;Neural Style Transfer&lt;/a&gt; and Fernan already had a reputation for taking beautiful pictures under a Microscope. A few hours of hacking later, we had our first impromptu installation which we enthusiastically exhibited at GOSH the very next day. People loved it !&lt;/p&gt;
+
+&lt;p&gt;We continued to collaborate after GOSH, and came up with &lt;a href=&#34;https://en.wikipedia.org/wiki/Neural_Style_Transfer&#34; target=&#34;_blank&#34;&gt;Neural Style Transfer&lt;/a&gt; based reinterpretations of &lt;a href=&#34;https://www.flickr.com/photos/anhedonias/&#34; target=&#34;_blank&#34;&gt;hundreds of pictures taken by Fernan and his team&lt;/a&gt;, in the styles of various artists.&lt;/p&gt;
+
+&lt;p&gt;The first official version of this installation was exhibited at the &lt;a href=&#34;https://aiforgood.itu.int/&#34; target=&#34;_blank&#34;&gt;AI for Good Global Summit&lt;/a&gt; 2019, at &lt;a href=&#34;https://en.wikipedia.org/wiki/International_Telecommunication_Union&#34; target=&#34;_blank&#34;&gt;ITU, Geneva&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;creations&#34;&gt;Creations&lt;/h1&gt;
+
+&lt;p&gt;A composite video showing a large number of such creations is available here :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/wFcp8mcnFYU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;A small selection of some of my favourite pieces are available here :&lt;/p&gt;
+
+&lt;h3 id=&#34;gracilaria&#34;&gt;Gracilaria&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/timetravellingmicroscope/gracilaria.png.jpg&#34; alt=&#34;Gracilaria&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The source image of this piece is obtained by &lt;a href=&#34;https://en.wikipedia.org/wiki/Confocal_microscopy&#34; target=&#34;_blank&#34;&gt;confocal mciroscopy&lt;/a&gt; of a &lt;a href=&#34;https://en.wikipedia.org/wiki/Gracilaria&#34; target=&#34;_blank&#34;&gt;Gracilaria&lt;/a&gt; cross section.&lt;/p&gt;
+
+&lt;h3 id=&#34;vino&#34;&gt;Vino&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/timetravellingmicroscope/vino.png.jpg&#34; alt=&#34;Vino&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The source image of this piece is obtained by &lt;a href=&#34;https://en.wikipedia.org/wiki/Microscopy#Ultraviolet_microscopy&#34; target=&#34;_blank&#34;&gt;UV light microscopy&lt;/a&gt; of a drop of wine.&lt;/p&gt;
+
+&lt;h3 id=&#34;bush&#34;&gt;Bush&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/timetravellingmicroscope/Bush.png.jpg&#34; alt=&#34;Bush&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The source image of this piece is obtained by &lt;a href=&#34;https://www.wikilectures.eu/w/Transmitted_light_microscopy&#34; target=&#34;_blank&#34;&gt;transmitted light microscopy&lt;/a&gt; of &lt;a href=&#34;https://en.wikipedia.org/wiki/Mycelium&#34; target=&#34;_blank&#34;&gt;fungal micelia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;citrus&#34;&gt;Citrus&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/timetravellingmicroscope/Citrus.png.jpg&#34; alt=&#34;Citrus&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The source image of this piece is obtained by &lt;a href=&#34;https://en.wikipedia.org/wiki/Polarized_light_microscopy&#34; target=&#34;_blank&#34;&gt;polarized light microscopy&lt;/a&gt; of &lt;a href=&#34;https://en.wikipedia.org/wiki/Citric_acid&#34; target=&#34;_blank&#34;&gt;citric acid&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;skoll&#34;&gt;Skoll&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/timetravellingmicroscope/skoll.png.jpg&#34; alt=&#34;Citrus&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The source image of this piece is obtained by &lt;a href=&#34;https://en.wikipedia.org/wiki/Microscopy#Ultraviolet_microscopy&#34; target=&#34;_blank&#34;&gt;UV light microscopy&lt;/a&gt; of &lt;a href=&#34;https://wtamu.edu/~cbaird/sq/2015/05/15/what-makes-a-fluorescent-highlighter-marker-so-bright/&#34; target=&#34;_blank&#34;&gt;fluorescent highlighter dye&lt;/a&gt; in &lt;a href=&#34;https://en.wikipedia.org/wiki/Ethanol&#34; target=&#34;_blank&#34;&gt;ethanol&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Mineral_oil&#34; target=&#34;_blank&#34;&gt;mineral oil&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h1&gt;
+
+&lt;p&gt;This work was generously supported by a &lt;a href=&#34;https://www.shuttleworthfoundation.org/fellows/flash-grants/&#34; target=&#34;_blank&#34;&gt;Flash Grant&lt;/a&gt; from the &lt;a href=&#34;https://www.shuttleworthfoundation.org/&#34; target=&#34;_blank&#34;&gt;Shuttleworth Foundation&lt;/a&gt;. Many Thanks to &lt;a href=&#34;https://www.shuttleworthfoundation.org/fellows/francois-grey/&#34; target=&#34;_blank&#34;&gt;Francois Grey&lt;/a&gt; for his support and recommendation for the Flash Grant.&lt;br /&gt;
+Many of the intial experiments were carried out on the &lt;strong&gt;IC-Cluster&lt;/strong&gt; at &lt;a href=&#34;https://www.epfl.ch/en/&#34; target=&#34;_blank&#34;&gt;École polytechnique fédérale de Lausanne&lt;/a&gt; and some of the final renderings were done on the &lt;a href=&#34;https://plone.unige.ch/distic/pub/hpc/baobab_en&#34; target=&#34;_blank&#34;&gt;Baobab Cluster&lt;/a&gt; at &lt;a href=&#34;https://www.unige.ch/&#34; target=&#34;_blank&#34;&gt;Université de Genève&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.flickr.com/photos/anhedonias/&#34; target=&#34;_blank&#34;&gt;source images for the whole installation&lt;/a&gt; were gathered over the years by Fernan Federici and his numerous collborators. Many thanks for all your patience and efforts.&lt;/p&gt;
+
+&lt;p&gt;The music used in the composite video was composed by &lt;a href=&#34;http://www.chadcrouch.com/&#34; target=&#34;_blank&#34;&gt;Chad Crouch&lt;/a&gt; and is available &lt;a href=&#34;http://freemusicarchive.org/music/Chad_Crouch/Field_Report_Vol_II_Reed_Canyon_Instrumental/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;team&#34;&gt;Team&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/MeMohanty&#34; target=&#34;_blank&#34;&gt;Sharada Mohanty&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+CEO/Co-Founder,&lt;br /&gt;
+&lt;a href=&#34;https://www.aicrowd.com&#34; target=&#34;_blank&#34;&gt;AIcrowd.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://federicilab.org/&#34; target=&#34;_blank&#34;&gt;Fernan Federici&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+Assistant Professor,&lt;br /&gt;
+Pontificia Universidad Católica, Chile&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/timetravellingmicroscope/shuttleworth.jpg&#34; alt=&#34;Logos&#34; width=&#34;60%&#34;  /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AIcrowd</title>
+      <link>/project/aicrowd/</link>
+      <pubDate>Fri, 19 Apr 2019 02:28:21 +0530</pubDate>
+      
+      <guid>/project/aicrowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simone Says</title>
+      <link>/project/simone-says/</link>
+      <pubDate>Sat, 06 Jan 2018 04:39:41 +0530</pubDate>
+      
+      <guid>/project/simone-says/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/full/simone-full.jpg&#34; alt=&#34;Simone Says&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Simone Says&amp;rdquo;&lt;/em&gt; is a media art installation that was done along with &lt;a href=&#34;https://twitter.com/superpanic?lang=en&#34; target=&#34;_blank&#34;&gt;Fredrik Josefsson&lt;/a&gt;, Danil Lündback and &lt;a href=&#34;https://monoskop.org/Bengt_Sj%C3%B6l%C3%A9n&#34; target=&#34;_blank&#34;&gt;Bengt Sjölén&lt;/a&gt;. It was displayed at the &lt;a href=&#34;https://en.wikipedia.org/wiki/Swedish_National_Museum_of_Science_and_Technology&#34; target=&#34;_blank&#34;&gt;Swedish National Museum of Science and Technology&lt;/a&gt;, Stockholm from August 1st, 2017 to November 30th, 2017. It was commissioned by the &lt;a href=&#34;https://www.vr.se/inenglish.4.12fff4451215cbd83e4800015152.html&#34; target=&#34;_blank&#34;&gt;Swedish Research Council&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The installation has a giant head projected onto a huge wall, which instructs the participants to stand in a line. It observes the scene by using 4 cameras mounted at 4 corners of the space, and analyses the scene to figure out the positions, pose, gender, expressions of the all the individuals present in the scene, and uses that information to understand deviations by the users from its previous instructions and computes further instructions for the participants given the deviations.&lt;/p&gt;
+
+&lt;p&gt;The installation also had an educational component which had visualisations of the internals of the deep neural networks which were used to arrive at most of the decisions; this was to help more intuitive communicate how modern day artificial intelligence processes information to arrive at a said conclusion.&lt;/p&gt;
+
+&lt;p&gt;A small teaser of the installation can be viewed at :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ERp_62s3ysA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;More details about the installation can be found at : &lt;a href=&#34;https://www.tekniskamuseet.se/en/discover/exhibitions/digital-now/&#34; target=&#34;_blank&#34;&gt;https://www.tekniskamuseet.se/en/discover/exhibitions/digital-now/&lt;/a&gt;
+and &lt;a href=&#34;https://www.tekniskamuseet.se/pa-gang/invigning-av-digital-now-3-simone-says/&#34; target=&#34;_blank&#34;&gt;https://www.tekniskamuseet.se/pa-gang/invigning-av-digital-now-3-simone-says/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;media&#34;&gt;Media&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forskning.se/2017/08/31/mot-ain-simone/&#34; target=&#34;_blank&#34;&gt;https://www.forskning.se/2017/08/31/mot-ain-simone/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://feber.se/pryl/art/369972/kolla_in_en_artificiell_intell/&#34; target=&#34;_blank&#34;&gt;http://feber.se/pryl/art/369972/kolla_in_en_artificiell_intell/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/tekniskamuseet/posts/1821530727864118&#34; target=&#34;_blank&#34;&gt;https://www.facebook.com/tekniskamuseet/posts/1821530727864118&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vr.se/nyheterpress/nyheter2017/hurpaverkasviavartificiellintelligens.5.7da5d28715e1bca492d22493.html&#34; target=&#34;_blank&#34;&gt;https://www.vr.se/nyheterpress/nyheter2017/hurpaverkasviavartificiellintelligens.5.7da5d28715e1bca492d22493.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.turismnytt.se/ny-teknik-skall-styra-museibesokarna/&#34; target=&#34;_blank&#34;&gt;https://www.turismnytt.se/ny-teknik-skall-styra-museibesokarna/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nyteknik.se/teknikrevyn/konst-med-ai-i-centrum-6867315&#34; target=&#34;_blank&#34;&gt;https://www.nyteknik.se/teknikrevyn/konst-med-ai-i-centrum-6867315&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.noww.se/p/digital-now-3-simone-says-ODwn5&#34; target=&#34;_blank&#34;&gt;https://www.noww.se/p/digital-now-3-simone-says-ODwn5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning to Run</title>
+      <link>/project/learning-to-run/</link>
+      <pubDate>Sat, 06 Jan 2018 04:09:50 +0530</pubDate>
+      
+      <guid>/project/learning-to-run/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/projects/learning_to_walk_gif.gif&#34; alt=&#34;Learning to Run&#34; /&gt;
+&lt;strong&gt;TODO&lt;/strong&gt;: Add description&lt;/p&gt;
+
+&lt;p&gt;You can read more about it &lt;a href=&#34;https://www.crowdai.org/challenges/nips-2017-learning-to-run&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sat, 06 Jan 2018 01:45:01 +0530</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;#!/usr/bin/env python
+print(&amp;quot;Hello World&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plant Disease Detection</title>
+      <link>/project/plant-disease-detection/</link>
+      <pubDate>Fri, 05 Jan 2018 04:13:24 +0530</pubDate>
+      
+      <guid>/project/plant-disease-detection/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/full/plantvillage-disease.png&#34; alt=&#34;Plant Disease Detection&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Crop diseases are a major threat to food security, but their rapid identification remains difficult in many parts of the world due to the lack of the necessary infrastructure. The combination of increasing global smartphone penetration and recent advances in computer vision made possible by deep learning has paved the way for smartphone-assisted disease diagnosis. Using a public dataset of &lt;strong&gt;54,306 images&lt;/strong&gt; of diseased and healthy plant leaves collected under controlled conditions, we train a deep convolutional neural network to identify &lt;strong&gt;14 crop species and 26 diseases&lt;/strong&gt; (or absence thereof). The trained model achieves an accuracy of &lt;strong&gt;99.35%&lt;/strong&gt; on a held-out test set, demonstrating the feasibility of this approach. Overall, the approach of training deep learning models on increasingly large and publicly available image datasets presents a clear path toward smartphone-assisted crop disease diagnosis on a massive global scale.&lt;/p&gt;
+
+&lt;p&gt;You can read more about it in the full paper &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;media&#34;&gt;Media&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theatlantic.com/science/archive/2016/04/future-smartphones-will-tell-you-whats-killing-your-plants/479859/&#34; target=&#34;_blank&#34;&gt;https://www.theatlantic.com/science/archive/2016/04/future-smartphones-will-tell-you-whats-killing-your-plants/479859/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/&#34; target=&#34;_blank&#34;&gt;https://www.wired.com/2016/05/future-humanitys-food-supply-hands-ai/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://actu.epfl.ch/news/plantvillage-a-deep-learning-app-diagnoses-crop-di/&#34; target=&#34;_blank&#34;&gt;http://actu.epfl.ch/news/plantvillage-a-deep-learning-app-diagnoses-crop-di/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.developer.nvidia.com/artificial-intelligence-helping-to-ensure-humanitys-future-food-supply/&#34; target=&#34;_blank&#34;&gt;https://news.developer.nvidia.com/artificial-intelligence-helping-to-ensure-humanitys-future-food-supply/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kathaa</title>
+      <link>/project/kathaa/</link>
+      <pubDate>Fri, 05 Jan 2018 04:01:38 +0530</pubDate>
+      
+      <guid>/project/kathaa/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/projects/kathaa.png&#34; alt=&#34;Kathaa&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kathaa is a Visual Programming Framework for Sampark Machine Translation System.&lt;/p&gt;
+
+&lt;p&gt;Although it was built for &lt;a href=&#34;http://ilmt.tdil-dc.gov.in/sampark/web/index.php/content&#34; target=&#34;_blank&#34;&gt;Sampark Machine Translation System&lt;/a&gt;, it is highly flexible, and can accommodate any practically any other system, as long as you can safely represent the unit-task at hand by a single function which takes some inputs, and spits out some outputs :D.&lt;/p&gt;
+
+&lt;p&gt;The goal of this Framework is to empower researchers to design and tinker with complex NLP workflows irrespective of their technical proficiency, and hopefully to bridge the gap between Linguists and Computational Linguists.&lt;/p&gt;
+
+&lt;p&gt;The vision of this Framework is to make creation of NLP workflows as easy as creating an online survey like Google Form (which in retrospect was a highly time and resource consuming task just a few years ago).&lt;/p&gt;
+
+&lt;p&gt;Apart from that, its completely open source, for you to break it apart, and change it into something even better !!
+Looking forward to your pull requests at : &lt;a href=&#34;https://github.com/spMohanty/kathaa&#34; target=&#34;_blank&#34;&gt;https://github.com/spMohanty/kathaa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And the whole setup is currently live at : &lt;a href=&#34;http://kathaa.ilmt.iiit.ac.in&#34; target=&#34;_blank&#34;&gt;http://kathaa.ilmt.iiit.ac.in&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is a small demo video explaining the major features of kathaa :
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/woK5x0NmrUA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CERN Public Computing Challenge</title>
+      <link>/project/cern-public-computing-challenge/</link>
+      <pubDate>Thu, 04 Jan 2018 03:46:59 +0530</pubDate>
+      
+      <guid>/project/cern-public-computing-challenge/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/full/cern.png&#34; alt=&#34;CERN Public Computing Challenge&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;An attempt to use the computing power of thousands of idle CPUs of citizens all around the world to help science take its next leap. This project is yet to be launched, and this attempts to gamify citizen cyberscience by providing real time feed of contribution statistics, hence making the whole challenge a grand game where citizens all over the world participate by donating their idle computing power to make yet another new discovery.&lt;/p&gt;
+
+&lt;h5 id=&#34;center-font-size-20px-color-00bfff-style-box-sizing-border-box-padding-0px-margin-0px-fifteen-days-font-center&#34;&gt;&lt;center&gt; &lt;font size=&#34;20px&#34; color=&#34;#00BFFF&#34; style=&#34;box-sizing: border-box; padding: 0px; margin: 0px;&#34;&gt;Fifteen days&lt;/font&gt; &lt;center&gt;&lt;/h5&gt;
+
+&lt;p&gt;The CERN 60 Public Computing Challenge is a 15-day event, where we invite volunteers around the world to help us compute simulations of particle collisions in the Large Hadron Collider (LHC) and other particle accelerators that have been active around the world during the 60 years of CERN&amp;rsquo;s history.&lt;/p&gt;
+
+&lt;h5 id=&#34;center-font-size-20px-color-00bfff-style-box-sizing-border-box-padding-0px-margin-0px-testing-technology-font-center&#34;&gt;&lt;center&gt; &lt;font size=&#34;20px&#34; color=&#34;#00BFFF&#34; style=&#34;box-sizing: border-box; padding: 0px; margin: 0px;&#34;&gt;testing technology&lt;/font&gt; &lt;/center&gt;&lt;/h5&gt;
+
+&lt;p&gt;The challenge will allow us to do two things: one is to create a large database of results for a new science learning game which is due to be launched in 2015, as part of the &lt;a href=&#34;http://citizencyberlab.eu/&#34; target=&#34;_blank&#34;&gt;Citizen Cyberlab&lt;/a&gt; project. The other is to test a new browser-based approach to volunteer computing, which will be used in the game.&lt;/p&gt;
+
+&lt;h5 id=&#34;center-font-size-20px-color-00bfff-style-box-sizing-border-box-padding-0px-margin-0px-for-a-virtual-atom-smasher-font-center&#34;&gt;&lt;center&gt; &lt;font size=&#34;20px&#34; color=&#34;#00BFFF&#34; style=&#34;box-sizing: border-box; padding: 0px; margin: 0px;&#34;&gt;for a virtual atom smasher.&lt;/font&gt; &lt;/center&gt;&lt;/h5&gt;
+
+&lt;p&gt;We&amp;rsquo;re excited to see how many people get involved in the challenge over two weeks, and how much computing we can get done with your help. Can we reach rates of simulated particle collisions that rival the actual rate at which the LHC stores data, and create a virtual atom smasher? That is the CERN 60 Public Computing Challenge.&lt;/p&gt;
+
+&lt;p&gt;You can find more details about the Test4Theory Challenge at : &lt;a href=&#34;http://https://test4theory.cern.ch/challenge/&#34; target=&#34;_blank&#34;&gt;https://test4theory.cern.ch/challenge/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yet Another 3D Controller</title>
+      <link>/project/yet-another-3d-controller/</link>
+      <pubDate>Thu, 04 Jan 2018 03:18:38 +0530</pubDate>
+      
+      <guid>/project/yet-another-3d-controller/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;/img/projects/full/ya3c.png&#34; alt=&#34;YA3C&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt; :: I spoke about this at &lt;a href=&#34;https://www.ted.com/tedx/events/17269&#34; target=&#34;_blank&#34;&gt;TEDxYouth@Hyderabad&lt;/a&gt; !! Yaaayyy !!
+Read more about it &lt;a href=&#34;https://www.facebook.com/tedxhyd/photos/a.330801093774725.1073741828.330599897128178/448492802005553/?type=3&amp;amp;theater&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of you will secretly agree with me, if I say, &lt;em&gt;“education”&lt;/em&gt;, as it is today, is more a form of punishment for the students, than a channel for acquiring knowledge. Maybe the purpose of education is also to ignite that little spark of curiosity that guides a young mind through his hunt for knowledge. Instead, what the current education system does is, it hunts the knowledge for you, arranges it in the form of small digestible pills, and hands it over to you along with a prescription. The job of the teacher is to make sure that the patient takes the right amount of pills at the right time. Simple. It doesn’t matter if some patients think that the pill tastes weird. It’s necessary for them, remember? While trying to make sure the students are sincere about acquiring knowledge, maybe we are pushing them away from the whole point of acquiring knowledge.&lt;/p&gt;
+
+&lt;p&gt;Imagine a classroom, where the teacher walks in, asks all the students to open their laptops. He then finds his smartphone in his pocket, and then starts teaching. The class is about the anatomy of a human heart. The teacher holds his smartphone while pretending like he is holding a real heart, and voila!! a huge 3D model of the heart rotates, revolves, moves closer and farther on a projected screen as the teacher does the same with his smartphone. The exact same also happens on the laptop screens of all the students too. If any of the students are more curious, they could also use their own cell phone to control the 3D model on their laptop screens. Sounds almost like what I was promised as a kid. Heck, I hope I will manage to send my kid to a classroom like that.&lt;/p&gt;
+
+&lt;p&gt;The YA3C project, developed at the &lt;a href=&#34;https://webfest.web.cern.ch/&#34; target=&#34;_blank&#34;&gt;CERN Webfest 2015&lt;/a&gt; does exactly that. It lets you use your trusted smartphone to intuitively control a 3D model on your laptop screen, while using nothing more than an updated browser on your smartphone. It finally let’s ideas and their representations break free out of books and jump into your own hands, for YOU to play with.&lt;/p&gt;
+
+&lt;p&gt;This is a completely web based prototype developed to address some of the problems in adoption of interactive and intuitive media in education. We know for a fact that most Humans are lazy, and teachers are humans. Humans love simple things, and teachers are again humans. A funny but true summary would be: lazy teachers love simple things, and if we want even the lazy teachers to help us fix education, then we will have to come up with something very simple, and very familiar. In the current times, what can be more simple and familiar than the browser on your trusted smartphone. Also, exploiting a regular smartphone ensures, there is no overhead cost in setting up the whole system, the school rules just have to make sure all the students bring their smartphones to the class ! ;)&lt;/p&gt;
+
+&lt;p&gt;So let’s go through the common excuses that YA3C might be an answer to :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Finance Departments : We do not have enough budget to buy so much extra hardware for all the students and teachers.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;YA3C : No, you don’t have to. Everyone has a smartphone, and that’s all you need ! :)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Teachers : It is very hard to set up something like this and I hate installing apps.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;YA3C : No, you just need your smartphone and an updated browser. We know you have both.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Teachers : I won’t have time to learn a new technology to teach my class. All this sounds too complex.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;YA3C : No, you just have to pretend it’s the 3D model you are holding, and not your smartphone. Then rotate, revolve your smartphone as much as you please, the model on screen will mimic your smartphone. We know you know how to do that.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are of course other problems for which YA3C is not an immediate answer. For example say, how does the teacher who was never trained in designing 3D models find 3D models to teach? Well, interestingly, over time because of the gaming and entertainment industry, we do have a good collection of 3D models scattered all over the web, surely not enough to exhaustively cover all major aspects of education, but more than enough for the first few steps in that direction. An adoption of something like this will definitely induce numerous communities around it which can help make available an open collection of interactive and intuitive media available for the domain of education. There are a dozen other problems like this, and I am sure, we as a community can find the best of the solutions for all of them. And that is the dream, a community working together to help bring the very much delayed paradigm shift in education. This will finally leave teachers with less excuses and make learning fun again for students.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, it is not fair for a whole generation of students to not get to experience education in a completely new light, only because the teachers are too hesitant to adopt something new or because the school budget cannot manage buying extra hardware. YA3C is my solution to the problem, while I attempt to refute some of the common excuses. It is not the perfect solution, but it is my baby step towards liberating education from dusty blackboards and lazy teachers. What’s yours?&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/kkNLpNpnOmQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Interactive teaching... thats what we like! &lt;a href=&#34;https://twitter.com/hashtag/MozFest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MozFest&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/openscience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#openscience&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/learning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#learning&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/interactiveteaching?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#interactiveteaching&lt;/a&gt; without the expense &lt;a href=&#34;https://t.co/OBYin3fMpL&#34;&gt;pic.twitter.com/OBYin3fMpL&lt;/a&gt;&lt;/p&gt;&amp;mdash; The Mozilla Files (@themozillafiles) &lt;a href=&#34;https://twitter.com/themozillafiles/status/662697715512528896?ref_src=twsrc%5Etfw&#34;&gt;November 6, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h3 id=&#34;media&#34;&gt;Media&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thehindu.com/news/national/telangana/lifechanging-innovations/article7882501.ece&#34; target=&#34;_blank&#34;&gt;http://www.thehindu.com/news/national/telangana/lifechanging-innovations/article7882501.ece&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brother Hunt</title>
+      <link>/project/brother-hunt/</link>
+      <pubDate>Wed, 03 Jan 2018 03:13:07 +0530</pubDate>
+      
+      <guid>/project/brother-hunt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/projects/brother_hunt_logo.png&#34; alt=&#34;Brother Hunt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A 3D Game about a particle running inside the &lt;a href=&#34;https://en.wikipedia.org/wiki/Large_Hadron_Collider&#34; target=&#34;_blank&#34;&gt;Large Hadron Collider at CERN&lt;/a&gt;, trying to figure out the mystery of what happened to its brother.  This game is inspired by the game called &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.imangi.templerun&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Temple Run&lt;/a&gt;, and aims to be played by small children and high school children to subconsciously introduce them to basic ideas of Particle Physics.&lt;/p&gt;
+
+&lt;p&gt;This was built as a part of the &lt;a href=&#34;https://webfest.web.cern.ch/&#34; target=&#34;_blank&#34;&gt;CERN Summer Student Webfest 2014&lt;/a&gt;, and it was awarded the best entry in the education track. Yayyyyy !!&lt;/p&gt;
+
+&lt;p&gt;Here is a small demo of the game :: (Please dont mind the bad video quality)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/nfmrVAtlnHs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mother Hunt</title>
+      <link>/project/mother_hunt/</link>
+      <pubDate>Wed, 03 Jan 2018 02:40:09 +0530</pubDate>
+      
+      <guid>/project/mother_hunt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/projects/mother_hunt.png&#34; alt=&#34;Mother Hunt&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mother Hunt is 3D Role Playing game, where the player assumes the role of a Muon which wakes up in the middle of &lt;a href=&#34;http://en.wikipedia.org/wiki/CERN&#34; target=&#34;_blank&#34;&gt;CERN&lt;/a&gt; without any recollection of how it got there. During the game play, it interacts with other particles and famous scientists at CERN to obtain clues about its &lt;em&gt;parents&lt;/em&gt; and &lt;em&gt;grand parents&lt;/em&gt; and in the process it finally figures out its decay chain.&lt;/p&gt;
+
+&lt;p&gt;The game was built over a weekend at the &lt;a href=&#34;https://webfest.web.cern.ch/&#34; target=&#34;_blank&#34;&gt;CERN Summer Student Webfest 2013&lt;/a&gt;, and it went on to win the &lt;strong&gt;first prize&lt;/strong&gt; at the hackathon, along with a Travel Grant to present this project at &lt;a href=&#34;https://mozillafestival.org/&#34; target=&#34;_blank&#34;&gt;Mozilla Fest&lt;/a&gt;, 2013, London.&lt;/p&gt;
+
+&lt;p&gt;The idea behind the game was to make Particle Physics more accessible to middle school and high school students in a more engaging way.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/rP2cP7ql8y0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Dog</title>
+      <link>/project/smart-dog/</link>
+      <pubDate>Tue, 02 Jan 2018 03:51:16 +0530</pubDate>
+      
+      <guid>/project/smart-dog/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/projects/smart-dog.jpg&#34; alt=&#34;SmartDog&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Smart Dog is a demining system built in &lt;a href=&#34;http://theport.ch/&#34; target=&#34;_blank&#34;&gt;The Port hackathon&lt;/a&gt;, CERN 2014. Dogs have been used in demining operations all around the world for a long long time. The Dogs are usually accompanied by a human handler, and their job together is to comb an unknown area to make sure there are no mines. The presence of the human handler though necessary, acts as a major deterrent in the whole process, and hence slowing the process down by a huge margin. The dog loses its freedom, and also the overall increased risk of the human handler mistakenly stepping on a mine.
+The Smart Dog project, decouples the human handler and the demining dog by the help of technology. We glued together a whole ranger of sensors on an arduino and made it talk with a raspberry PI which is connected to the local network through wifi. The handler now has to fire his laptop (which has a military grade wifi-router) along with it, and creates an ad-hoc network. Then the client devices on the dogs are switched on, which automatically pick up this Wifi network based on the SSID, and finds the central server in that isolated network. The handlers laptop serves as the server in this case. And then it starts streaming a video feed from the dog along with the data from the rest of the sensors(accelerometer, gyroscope, heart beat sensor, magnetic field sensor, GPS sensors) to the handlers laptop. We also have a bidirectional audio channel for the handler to speak with the dog. This enables the handler to stay in a far away safe place, while letting the demining dog do what it does best. The handler knows everything he needs to know about the dog in realtime(including the location), and can also steer the dog using audio commands.
+In the end whenever the dog finds a mine, and the handler confirms from the Visual feedback(if possible), the handler notes the location from the GPS coordinates, and also apart from that, releases a Beacon at that spot. Then the tactile team is sent to that location to carefully demine the mine.
+This increases the overall efficiency and safety by a huge margin.&lt;/p&gt;
+
+&lt;p&gt;Here is a small video explanation of the whole project created by &lt;a href=&#34;https://twitter.com/adriaexists?lang=en&#34; target=&#34;_blank&#34;&gt;Adria&lt;/a&gt;, one of my team mates :&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/SfN31OzoJ0c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;And here is a small demo of the final project(this is not very clear, and there the whole system is not mounted on a dog here, will soon be uploading the video from the final demo we did at the hackathon with a real dog)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/s3uLx4P9Tq4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;This project was later presented at &lt;a href=&#34;http://citizencyberscience.net/blogs/index.php/2015/02/09/science-x-kickstarter-16-projects-selected/&#34; target=&#34;_blank&#34;&gt;Science X Kickstarter&lt;/a&gt;, at &lt;a href=&#34;http://tisch.nyu.edu/itp&#34; target=&#34;_blank&#34;&gt;NYU ITP&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wordament Bot</title>
+      <link>/project/wordament-bot/</link>
+      <pubDate>Mon, 01 Jan 2018 03:38:56 +0530</pubDate>
+      
+      <guid>/project/wordament-bot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/projects/wordament_logo.png&#34; alt=&#34;Wordament&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A lot of you out there have been addicts of some mobile game at one point or another. I am no different, neither are half of my neighbours  !! After having wasted quite some time on &lt;a href=&#34;http://www.wordament.com/&#34; target=&#34;_blank&#34;&gt;wordament&lt;/a&gt;, I wrote this &lt;a href=&#34;http://www.wordament.com/&#34; target=&#34;_blank&#34;&gt;Wordament&lt;/a&gt; bot which plays on my behalf now O:-) , and it kind of guaranatees me a rank 1 in almost every game I play 3:-)&lt;/p&gt;
+
+&lt;p&gt;The idea is, I enter the grid of words, and then it does an exhaustive search in the grid for dictionary words and generates a sequence of &lt;em&gt;swipes&lt;/em&gt; that it will need to complete the game. A lot of words from the dictionary have been randomly pruned, just to make sure the bot doesnot find out ALL the possible words, and hence flag an alarm if at all  there is some bot detection mechanism in place. The Swipe speed, etc have also been tuned so atleast it &lt;em&gt;appears&lt;/em&gt; like a human is playing the game.&lt;br /&gt;
+Thesee are more of ANTI-bot detection mechanisms to beat a bot  detector if at all. .(Though I do not see  any bot detection mechanism in wordament except the detection of lots of wrong swipes)&lt;/p&gt;
+
+&lt;p&gt;Here is a demo of the Wordament bot ::&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Gu6zf73VhPI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;I also modified the Wordament bot to work with Wordhero which is again another popular game pretty much like wordament. I just had to calibrate the previous script to work with the wordhero screen positionings. Here is a demo ::&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/koIUOJmH1UI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Note : This is a proof of concept script, and it was not written with the intention to harm any organizations. In case ANYONE has any issues with these videos, please shoot me a mail at &lt;a href=&#34;mailto:sp.mohanty@cern.ch&#34; target=&#34;_blank&#34;&gt;sp.mohanty@cern.ch&lt;/a&gt;, and I will be happy to have these videos removed ::)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Geotag X</title>
+      <link>/project/geotag-x/</link>
+      <pubDate>Mon, 01 Jan 2018 03:24:48 +0530</pubDate>
+      
+      <guid>/project/geotag-x/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/projects/geotagx.png&#34; alt=&#34;GeoTag-X&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://geotagx.org/&#34; target=&#34;_blank&#34;&gt;GeoTag-X&lt;/a&gt; is an open source platform set up by &lt;a href=&#34;https://unitar.org/unosat/&#34; target=&#34;_blank&#34;&gt;UNITAR-UNOSAT&lt;/a&gt; within &lt;a href=&#34;http://www.citizencyberlab.org/&#34; target=&#34;_blank&#34;&gt;Citizen Cyberlab&lt;/a&gt; to engage and educate volunteers all around the world in analysing media coming out of humanitarian crises and natural disasters. &lt;a href=&#34;https://geotagx.org/&#34; target=&#34;_blank&#34;&gt;GeoTag-X&lt;/a&gt; aims to produce datasets that can be used in relief and recovery efforts by humanitarian and disaster response agencies, both within and outside the United Nations system.&lt;/p&gt;
+
+&lt;p&gt;Large quantities of media, including photos and videos, are often generated during disasters and humanitarian operations. UNITAR-UNOSAT believes this media can complement existing efforts at gathering data to summarize disaster impacts and humanitarian response. With the GeoTag-X platform, we seek to gather all the relevant media coming out of a disaster situation or humanitarian operations, and to crowdsource analysis of that media so it can be used by the international community.&lt;/p&gt;
+
+&lt;p&gt;GeoTag-X is built on the open source &lt;a href=&#34;http://pybossa.com/&#34; target=&#34;_blank&#34;&gt;PyBossa&lt;/a&gt; and all code developed for GeoTag-X is made available on &lt;a href=&#34;https://github.com/geotagx&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;. GeoTag-X currently hosts 14 projects covering various disaster-related topics. Some of these were simply developed as test cases as we implemented new ideas and code, and almost all of them have been developed in collaboration with external organizations and agencies such as the &lt;a href=&#34;http://www.reach-initiative.org/&#34; target=&#34;_blank&#34;&gt;REACH Initiative&lt;/a&gt;, &lt;a href=&#34;www.fao.org/somalia/en/&#34; target=&#34;_blank&#34;&gt;UNFAO Somalia&lt;/a&gt;, and &lt;a href=&#34;http://yamuna.womenforsustainablecities.org/&#34; target=&#34;_blank&#34;&gt;Yamuna’s Daughter&lt;/a&gt;, a project by Women for Sustainable Cities.&lt;/p&gt;
+
+&lt;p&gt;My role in the GeoTag-X project was that of the Lead Developer, and the project is currently live at : &lt;a href=&#34;https://geotag-x.org&#34; target=&#34;_blank&#34;&gt;https://geotagx.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

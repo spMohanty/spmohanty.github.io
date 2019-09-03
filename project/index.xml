@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 29 Aug 2019 03:51:16 +0530</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Time Travelling Microscope</title>
+      <link>/project/time-travelling-microscope/</link>
+      <pubDate>Thu, 29 Aug 2019 03:51:16 +0530</pubDate>
+      
+      <guid>/project/time-travelling-microscope/</guid>
+      <description>Introduction Microscopes are a beautiful window to a whole new world that surrounds us. Given the accessibility and the ease of use of the modern day digital microscopes, many of us enthusiasts have spent days looking at this beautiful world and being fascinated by it every single moment.
+This Art Installation imagines a past where all of our favourite artists were as fascinated by the Microscope and the Miscroscopic world as ourselves.</description>
+    </item>
+    
+    <item>
+      <title>AIcrowd</title>
+      <link>/project/aicrowd/</link>
+      <pubDate>Fri, 19 Apr 2019 02:28:21 +0530</pubDate>
+      
+      <guid>/project/aicrowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simone Says</title>
+      <link>/project/simone-says/</link>
+      <pubDate>Sat, 06 Jan 2018 04:39:41 +0530</pubDate>
+      
+      <guid>/project/simone-says/</guid>
+      <description>&amp;ldquo;Simone Says&amp;rdquo; is a media art installation that was done along with Fredrik Josefsson, Danil Lündback and Bengt Sjölén. It was displayed at the Swedish National Museum of Science and Technology, Stockholm from August 1st, 2017 to November 30th, 2017. It was commissioned by the Swedish Research Council.
+The installation has a giant head projected onto a huge wall, which instructs the participants to stand in a line. It observes the scene by using 4 cameras mounted at 4 corners of the space, and analyses the scene to figure out the positions, pose, gender, expressions of the all the individuals present in the scene, and uses that information to understand deviations by the users from its previous instructions and computes further instructions for the participants given the deviations.</description>
+    </item>
+    
+    <item>
+      <title>Learning to Run</title>
+      <link>/project/learning-to-run/</link>
+      <pubDate>Sat, 06 Jan 2018 04:09:50 +0530</pubDate>
+      
+      <guid>/project/learning-to-run/</guid>
+      <description>TODO: Add description
+You can read more about it here.</description>
+    </item>
+    
+    <item>
+      <title>Plant Disease Detection</title>
+      <link>/project/plant-disease-detection/</link>
+      <pubDate>Fri, 05 Jan 2018 04:13:24 +0530</pubDate>
+      
+      <guid>/project/plant-disease-detection/</guid>
+      <description>Crop diseases are a major threat to food security, but their rapid identification remains difficult in many parts of the world due to the lack of the necessary infrastructure. The combination of increasing global smartphone penetration and recent advances in computer vision made possible by deep learning has paved the way for smartphone-assisted disease diagnosis. Using a public dataset of 54,306 images of diseased and healthy plant leaves collected under controlled conditions, we train a deep convolutional neural network to identify 14 crop species and 26 diseases (or absence thereof).</description>
+    </item>
+    
+    <item>
+      <title>Kathaa</title>
+      <link>/project/kathaa/</link>
+      <pubDate>Fri, 05 Jan 2018 04:01:38 +0530</pubDate>
+      
+      <guid>/project/kathaa/</guid>
+      <description>Kathaa is a Visual Programming Framework for Sampark Machine Translation System.
+Although it was built for Sampark Machine Translation System, it is highly flexible, and can accommodate any practically any other system, as long as you can safely represent the unit-task at hand by a single function which takes some inputs, and spits out some outputs :D.
+The goal of this Framework is to empower researchers to design and tinker with complex NLP workflows irrespective of their technical proficiency, and hopefully to bridge the gap between Linguists and Computational Linguists.</description>
+    </item>
+    
+    <item>
+      <title>CERN Public Computing Challenge</title>
+      <link>/project/cern-public-computing-challenge/</link>
+      <pubDate>Thu, 04 Jan 2018 03:46:59 +0530</pubDate>
+      
+      <guid>/project/cern-public-computing-challenge/</guid>
+      <description>An attempt to use the computing power of thousands of idle CPUs of citizens all around the world to help science take its next leap. This project is yet to be launched, and this attempts to gamify citizen cyberscience by providing real time feed of contribution statistics, hence making the whole challenge a grand game where citizens all over the world participate by donating their idle computing power to make yet another new discovery.</description>
+    </item>
+    
+    <item>
+      <title>Yet Another 3D Controller</title>
+      <link>/project/yet-another-3d-controller/</link>
+      <pubDate>Thu, 04 Jan 2018 03:18:38 +0530</pubDate>
+      
+      <guid>/project/yet-another-3d-controller/</guid>
+      <description>Update :: I spoke about this at TEDxYouth@Hyderabad !! Yaaayyy !! Read more about it here
+A lot of you will secretly agree with me, if I say, “education”, as it is today, is more a form of punishment for the students, than a channel for acquiring knowledge. Maybe the purpose of education is also to ignite that little spark of curiosity that guides a young mind through his hunt for knowledge.</description>
+    </item>
+    
+    <item>
+      <title>Brother Hunt</title>
+      <link>/project/brother-hunt/</link>
+      <pubDate>Wed, 03 Jan 2018 03:13:07 +0530</pubDate>
+      
+      <guid>/project/brother-hunt/</guid>
+      <description>A 3D Game about a particle running inside the Large Hadron Collider at CERN, trying to figure out the mystery of what happened to its brother. This game is inspired by the game called Temple Run, and aims to be played by small children and high school children to subconsciously introduce them to basic ideas of Particle Physics.
+This was built as a part of the CERN Summer Student Webfest 2014, and it was awarded the best entry in the education track.</description>
+    </item>
+    
+    <item>
+      <title>Mother Hunt</title>
+      <link>/project/mother_hunt/</link>
+      <pubDate>Wed, 03 Jan 2018 02:40:09 +0530</pubDate>
+      
+      <guid>/project/mother_hunt/</guid>
+      <description>Mother Hunt is 3D Role Playing game, where the player assumes the role of a Muon which wakes up in the middle of CERN without any recollection of how it got there. During the game play, it interacts with other particles and famous scientists at CERN to obtain clues about its parents and grand parents and in the process it finally figures out its decay chain.
+The game was built over a weekend at the CERN Summer Student Webfest 2013, and it went on to win the first prize at the hackathon, along with a Travel Grant to present this project at Mozilla Fest, 2013, London.</description>
+    </item>
+    
+    <item>
+      <title>Smart Dog</title>
+      <link>/project/smart-dog/</link>
+      <pubDate>Tue, 02 Jan 2018 03:51:16 +0530</pubDate>
+      
+      <guid>/project/smart-dog/</guid>
+      <description>Smart Dog is a demining system built in The Port hackathon, CERN 2014. Dogs have been used in demining operations all around the world for a long long time. The Dogs are usually accompanied by a human handler, and their job together is to comb an unknown area to make sure there are no mines. The presence of the human handler though necessary, acts as a major deterrent in the whole process, and hence slowing the process down by a huge margin.</description>
+    </item>
+    
+    <item>
+      <title>Wordament Bot</title>
+      <link>/project/wordament-bot/</link>
+      <pubDate>Mon, 01 Jan 2018 03:38:56 +0530</pubDate>
+      
+      <guid>/project/wordament-bot/</guid>
+      <description>A lot of you out there have been addicts of some mobile game at one point or another. I am no different, neither are half of my neighbours !! After having wasted quite some time on wordament, I wrote this Wordament bot which plays on my behalf now O:-) , and it kind of guaranatees me a rank 1 in almost every game I play 3:-)
+The idea is, I enter the grid of words, and then it does an exhaustive search in the grid for dictionary words and generates a sequence of swipes that it will need to complete the game.</description>
+    </item>
+    
+    <item>
+      <title>Geotag X</title>
+      <link>/project/geotag-x/</link>
+      <pubDate>Mon, 01 Jan 2018 03:24:48 +0530</pubDate>
+      
+      <guid>/project/geotag-x/</guid>
+      <description>GeoTag-X is an open source platform set up by UNITAR-UNOSAT within Citizen Cyberlab to engage and educate volunteers all around the world in analysing media coming out of humanitarian crises and natural disasters. GeoTag-X aims to produce datasets that can be used in relief and recovery efforts by humanitarian and disaster response agencies, both within and outside the United Nations system.
+Large quantities of media, including photos and videos, are often generated during disasters and humanitarian operations.</description>
+    </item>
+    
+  </channel>
+</rss>
