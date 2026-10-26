@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta name="color-scheme" content="light dark">
+    <script id="theme-bootstrap">(function initializeTheme(storageKey, normalize, resolve) {
+  let saved = null;
+  try {
+    saved = window.localStorage.getItem(storageKey);
+  } catch {
+  }
+  const preference = normalize(saved);
+  if (saved !== null && saved !== preference) {
+    try {
+      window.localStorage.setItem(storageKey, preference);
+    } catch {
+    }
+  }
+  let systemDark = false;
+  try {
+    systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  } catch {
+  }
+  const resolved = resolve(preference, systemDark);
+  const root = document.documentElement;
+  root.classList.remove("light", "dark");
+  root.classList.add(resolved);
+  root.style.colorScheme = resolved === "dark" ? "dark" : "only light";
+  root.style.backgroundColor = resolved === "dark" ? "#000" : "#fff";
+})("spmohanty-theme",function normalizePreference(value) {
+  return value === "light" || value === "dark" ? value : "system";
+},function resolveTheme(preference, systemDark) {
+  return preference === "system" ? systemDark ? "dark" : "light" : preference;
+});</script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <title>Sharada Mohanty: Yet another curious explorer</title>
+    <meta name="description" content="AI researcher and builder accelerating scientific discovery with AI-assisted collective intelligence, turning ambitious research questions into coopetitive experiments with open baselines, fast iteration, thoughtful incentives, and tight feedback loops." />
+    <meta name="author" content="Sharada Mohanty" />
+
+    <!-- https://spmohanty.com is substituted at build time by the site-origin plugin in
+         vite.config.ts, from the host's own env vars. Social scrapers reject
+         relative image paths and never run our JS, so these must be absolute
+         in the served HTML. -->
+    <link rel="canonical" href="https://spmohanty.com/" />
+
+    <meta property="og:title" content="Sharada Mohanty: Yet another curious explorer" />
+    <meta property="og:description" content="AI researcher and builder accelerating scientific discovery with AI-assisted collective intelligence, turning ambitious research questions into coopetitive experiments with open baselines, fast iteration, thoughtful incentives, and tight feedback loops." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://spmohanty.com/" />
+    <meta property="og:image" content="https://spmohanty.com/lineart/plant-clean.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@MeMohanty" />
+    <meta name="twitter:image" content="https://spmohanty.com/lineart/plant-clean.png" />
+    <script type="module" crossorigin src="/assets/index-CoDgLj8z.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BxEe3jOK.css">
+  </head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
